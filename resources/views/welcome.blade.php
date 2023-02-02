@@ -22,7 +22,7 @@
             <!-- Container fluid  -->
             <!-- ============================================================== -->
             <div class="container-fluid">
-                ASSALAMUALAIKUM
+                ASSALAMUALAIKUM dan WALAIKUMSALAM
             </div>
             <!-- ============================================================== -->
             <!-- End Container fluid  -->
